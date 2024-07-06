@@ -16,6 +16,7 @@
 		1A8810612C38E23F00B6AB21 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1A8810602C38E23F00B6AB21 /* Assets.xcassets */; };
 		1A8810642C38E23F00B6AB21 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1A8810632C38E23F00B6AB21 /* Preview Assets.xcassets */; };
 		1A88106F2C38E24000B6AB21 /* VisionOSSampleSurroundingsEffectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A88106E2C38E24000B6AB21 /* VisionOSSampleSurroundingsEffectTests.swift */; };
+		1A8810792C390D5900B6AB21 /* pancakes.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 1A8810782C390D5900B6AB21 /* pancakes.usdz */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -41,6 +42,7 @@
 		1A8810652C38E23F00B6AB21 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1A88106A2C38E24000B6AB21 /* VisionOSSampleSurroundingsEffectTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = VisionOSSampleSurroundingsEffectTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1A88106E2C38E24000B6AB21 /* VisionOSSampleSurroundingsEffectTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VisionOSSampleSurroundingsEffectTests.swift; sourceTree = "<group>"; };
+		1A8810782C390D5900B6AB21 /* pancakes.usdz */ = {isa = PBXFileReference; lastKnownFileType = file; path = pancakes.usdz; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,6 +86,7 @@
 		1A8810512C38E23E00B6AB21 /* VisionOSSampleSurroundingsEffect */ = {
 			isa = PBXGroup;
 			children = (
+				1A8810782C390D5900B6AB21 /* pancakes.usdz */,
 				1A8810562C38E23E00B6AB21 /* VisionOSSampleSurroundingsEffectApp.swift */,
 				1A8810582C38E23E00B6AB21 /* ContentView.swift */,
 				1A88105A2C38E23E00B6AB21 /* AppModel.swift */,
@@ -204,6 +207,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1A8810792C390D5900B6AB21 /* pancakes.usdz in Resources */,
 				1A8810642C38E23F00B6AB21 /* Preview Assets.xcassets in Resources */,
 				1A8810612C38E23F00B6AB21 /* Assets.xcassets in Resources */,
 			);
